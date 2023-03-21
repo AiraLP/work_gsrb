@@ -1,8 +1,7 @@
-<?
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("1С-Битрикс: Управление сайтом");
-?>
-
-Пустая страница. <a href="/bitrix/admin/">Перейти в Панель Управления</a>.
-
+<?/*Главная страница сайта*/?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php"); //Подключение шапки сайта?> 
+<?$APPLICATION->SetTitle("Государственное Собрание — Курултай Республики Башкортостан / Официальный сайт"); //Установка заголовка страницы?>
+<pre><?print_r(SITE_TEMPLATE_PATH.'/css/style.css');?></pre>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+
+    
