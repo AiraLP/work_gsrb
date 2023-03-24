@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/gsrb/css/style.css" => "167939990516",]; ?>

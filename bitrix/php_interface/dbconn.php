@@ -4,6 +4,20 @@ $DBDebug = false;
 $DBDebugToFile = false;
 define("MYSQL_TABLE_TYPE", "INNODB");
 
+/*Дополнения от администратора*/
+
+//В стандартном файле dbconn.php в ядре нет подключения к базе данных
+//Однако меню /root/menu.sh требует указать эти значения, иначе выдает ошибку
+//Например, при настройке планировщика-cron
+
+$DBType = "mysql";
+$DBHost = "localhost";
+$DBLogin = "dbuser";
+$DBPassword = "Ipoiit2346715";
+$DBName = "gsrbdatabase";
+/*---------------------------*/
+
+
 define("CACHED_b_file", 3600);
 define("CACHED_b_file_bucket_size", 10);
 define("CACHED_b_lang", 3600);

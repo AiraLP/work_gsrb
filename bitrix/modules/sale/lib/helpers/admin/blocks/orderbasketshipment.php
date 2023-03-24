@@ -275,26 +275,33 @@ class OrderBasketShipment extends OrderBasket
 			$basketItem = $item->getBasketItem();
 			if ($basketItem)
 			{
-				if ($systemShipmentItemCollection)
-				{
-					/** @var \Bitrix\Sale\ShipmentItemCollection $systemShipmentItemCollection */
-					$systemShipmentItem = $systemShipmentItemCollection->getItemByBasketCode($basketItem->getBasketCode());
-				}
+				/** @var \Bitrix\Sale\ShipmentItemCollection $systemShipmentItemCollection */
+				$systemShipmentItem = $systemShipmentItemCollection->getItemByBasketCode($basketItem->getBasketCode());
 
 				$productId = $basketItem->getProductId();
 
-				if ($basketItem->getField("MODULE") == "catalog" && !empty($catalogProductsFields[$productId]))
+				if ($basketItem->getField("MODULE") === "catalog" && !empty($catalogProductsFields[$productId]))
+				{
 					$params = $catalogProductsFields[$productId];
+				}
 
 				if (intval($basketItem->getField("MEASURE_CODE")) > 0)
+				{
 					$params["MEASURE_CODE"] = intval($basketItem->getField("MEASURE_CODE"));
+				}
 				elseif (!isset($params["MEASURE_CODE"]))
+				{
 					$params["MEASURE_CODE"] = 0;
+				}
 
-				if($basketItem->getField("MEASURE_NAME") <> '')
+				if (!empty($basketItem->getField("MEASURE_NAME")))
+				{
 					$params["MEASURE_TEXT"] = $basketItem->getField("MEASURE_NAME");
+				}
 				elseif(!isset($params["MEASURE_TEXT"]))
+				{
 					$params["MEASURE_TEXT"] = "";
+				}
 
 				if ($basketItem->isBundleParent())
 				{
@@ -359,13 +366,15 @@ class OrderBasketShipment extends OrderBasket
 				if(\Bitrix\Main\Loader::includeModule("catalog"))
 				{
 					$productInfo = \CCatalogSku::GetProductInfo($productId);
-					$params["OFFERS_IBLOCK_ID"] = $productInfo["OFFER_IBLOCK_ID"];
-					$params["IBLOCK_ID"] = $productInfo["IBLOCK_ID"];
-					$params["PRODUCT_ID"] = $productInfo["ID"];
+					if ($productInfo)
+					{
+						$params["OFFERS_IBLOCK_ID"] = $productInfo["OFFER_IBLOCK_ID"];
+						$params["IBLOCK_ID"] = $productInfo["IBLOCK_ID"];
+						$params["PRODUCT_ID"] = $productInfo["ID"];
+					}
 				}
 
-				if ($basketItem->isBundleChild())
-					$params["PARENT_BASKET_ID"] = $basketItem->getParentBasketItem()->getId();
+				$params["PARENT_BASKET_ID"] = $basketItem->getParentBasketItemId() ?? 0;
 
 				//If product became bundle, but in saved order it is a simple product.
 				if ($basketItem->getBasketCode() == intval($basketItem->getBasketCode()) && !$basketItem->isBundleParent() && !empty($params['SET_ITEMS']))
@@ -694,7 +703,7 @@ class OrderBasketShipment extends OrderBasket
 				);
 				$idsFromForm[$basketCode] = array();
 
-				if ($items['BARCODE_INFO'] && (self::$useStoreControl || $basketItem->isSupportedMarkingCode()))
+				if (!empty($items['BARCODE_INFO']) && (self::$useStoreControl || $basketItem->isSupportedMarkingCode()))
 				{
 					foreach ($items['BARCODE_INFO'] as $item)
 					{

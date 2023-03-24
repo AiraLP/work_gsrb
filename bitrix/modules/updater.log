@@ -5241,3 +5241,174 @@
 2023-03-20 11:51:54 -  - exec CUpdateClient::GetHTTPPage
 2023-03-20 11:51:54 -  - TIME GetUpdatesList(request) 0.525 sec
 2023-03-20 11:51:54 -  - exec CUpdateClient::ParseServerData
+2023-03-21 14:18:39 -  - exec CUpdateClient::GetUpdatesList
+2023-03-21 14:18:39 -  - exec CUpdateClient::CollectRequestData
+2023-03-21 14:18:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=22.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-21 14:18:39 -  - exec CUpdateClient::GetHTTPPage
+2023-03-21 14:18:39 -  - TIME GetUpdatesList(request) 0.161 sec
+2023-03-21 14:18:39 -  - exec CUpdateClient::ParseServerData
+2023-03-22 15:23:00 -  - exec CUpdateClient::GetUpdatesList
+2023-03-22 15:23:00 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 15:23:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=22.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 15:23:00 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 15:23:01 -  - TIME GetUpdatesList(request) 0.228 sec
+2023-03-22 15:23:01 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:43 -  - exec CUpdateClient::GetUpdatesList
+2023-03-22 17:01:43 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=22.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:01:43 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:44 -  - TIME GetUpdatesList(request) 0.201 sec
+2023-03-22 17:01:44 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:44 -  - exec CUpdateClient::executeCounters
+2023-03-22 17:01:44 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=22.300.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[426]=1
+2023-03-22 17:01:44 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:44 -  - TIME executeCounters 0.138 sec
+2023-03-22 17:01:55 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:55 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=22.300.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:01:55 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:55 -  - TIME LoadModulesUpdates(request) 0.118 sec
+2023-03-22 17:01:55 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:55 - S - STEP
+2023-03-22 17:01:55 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:01:55 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:55 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:55 -  - loadFile
+2023-03-22 17:01:55 - U - RETURN
+2023-03-22 17:01:55 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:01:55 -  - TIME UnGzipArchive 0.064 sec
+2023-03-22 17:01:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486515/vote/updater23.0.0.php'
+2023-03-22 17:01:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1679486515/vote/updater23.0.0.php': CopyFiles(install/components, components)
+2023-03-22 17:01:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1679486515/vote/updater23.0.0.php': CopyFiles(install/components, components)
+2023-03-22 17:01:56 -  - TIME UpdateStepModules 0.093 sec
+2023-03-22 17:01:56 - UPD_SUCCESS - Updated: vote (23.0.0)<br><li>Улучшена совместимость с PHP 8. <li>Исправлена ошибка отображения картинки, в названии которой присутствует пробел. 
+2023-03-22 17:01:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:56 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=22.800.200&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:01:56 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:56 -  - TIME LoadModulesUpdates(request) 0.13 sec
+2023-03-22 17:01:56 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:56 - S - STEP
+2023-03-22 17:01:56 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:01:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:56 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:56 -  - loadFile
+2023-03-22 17:01:56 - U - RETURN
+2023-03-22 17:01:56 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:01:56 -  - TIME UnGzipArchive 0.121 sec
+2023-03-22 17:01:56 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486516/sale/updater23.0.0.php'
+2023-03-22 17:01:57 -  - TIME UpdateStepModules 0.198 sec
+2023-03-22 17:01:57 - UPD_SUCCESS - Updated: sale (23.0.0)<br><li>В платежной системе Yookassa добавлены новые сценарии оплаты: SberPay QR с перенаправлением в приложение банка, Система быстрых платежей (СБП) и Оплата по частям. <li>Улучшена работа с PHP 8. 
+2023-03-22 17:01:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:57 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:57 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.550.200&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:01:57 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:57 -  - TIME LoadModulesUpdates(request) 0.113 sec
+2023-03-22 17:01:57 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:57 - S - STEP
+2023-03-22 17:01:57 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:01:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:57 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:57 -  - loadFile
+2023-03-22 17:01:57 - U - RETURN
+2023-03-22 17:01:57 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:01:58 -  - TIME UnGzipArchive 0.326 sec
+2023-03-22 17:01:58 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486517/calendar/updater22.600.0.php'
+2023-03-22 17:01:59 -  - TIME UpdateStepModules 0.651 sec
+2023-03-22 17:01:59 - UPD_SUCCESS - Updated: calendar (22.600.0)<br><li>Добавлена идентификация входящих приглашений на сетке. <li>Обновлен дизайн окон подтверждения действий. <li>Улучшена работа переключения раскладок через горячие клавиши. <li>Другие правки и изменения.
+2023-03-22 17:01:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:59 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:01:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=22.600.0&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:01:59 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:01:59 -  - TIME LoadModulesUpdates(request) 0.126 sec
+2023-03-22 17:01:59 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:59 - S - STEP
+2023-03-22 17:01:59 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:01:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:01:59 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:01:59 -  - loadFile
+2023-03-22 17:01:59 - U - RETURN
+2023-03-22 17:01:59 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:02:00 -  - TIME UnGzipArchive 0.276 sec
+2023-03-22 17:02:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486519/calendar/updater23.0.0.php'
+2023-03-22 17:02:00 -  - TIME UpdateStepModules 0.337 sec
+2023-03-22 17:02:00 - UPD_SUCCESS - Updated: calendar (23.0.0)<br><li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8.
+2023-03-22 17:02:00 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:00 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:02:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.0&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:02:00 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:02:00 -  - TIME LoadModulesUpdates(request) 0.153 sec
+2023-03-22 17:02:00 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:00 - S - STEP
+2023-03-22 17:02:00 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:02:00 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:00 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:00 -  - loadFile
+2023-03-22 17:02:01 - U - RETURN
+2023-03-22 17:02:01 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:02:01 -  - TIME UnGzipArchive 0.055 sec
+2023-03-22 17:02:01 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486521/calendar/updater23.0.100.php'
+2023-03-22 17:02:01 -  - TIME UpdateStepModules 0.05 sec
+2023-03-22 17:02:01 - UPD_SUCCESS - Updated: calendar (23.0.100)<br><li>Исправлена ошибка открытия профиля пользователей.
+2023-03-22 17:02:01 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:01 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:02:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1100.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:02:01 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:02:01 -  - TIME LoadModulesUpdates(request) 0.116 sec
+2023-03-22 17:02:01 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:01 - S - STEP
+2023-03-22 17:02:01 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:02:01 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:01 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:01 -  - loadFile
+2023-03-22 17:02:02 - U - RETURN
+2023-03-22 17:02:02 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:02:02 -  - TIME UnGzipArchive 0.356 sec
+2023-03-22 17:02:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486522/im/updater22.1200.0.php'
+2023-03-22 17:02:03 -  - TIME UpdateStepModules 0.462 sec
+2023-03-22 17:02:03 - UPD_SUCCESS - Updated: im (22.1200.0)<br><li>В рамках обновления будет запущен агент для восстановления потерянных пользовательских настроек чата. <li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8. 
+2023-03-22 17:02:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:03 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:02:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=22.300.100&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1200.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:02:03 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:02:03 -  - TIME LoadModulesUpdates(request) 0.118 sec
+2023-03-22 17:02:03 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:03 - S - STEP
+2023-03-22 17:02:03 - LMU01 - LoadModulesUpdates-Step
+2023-03-22 17:02:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:03 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:03 -  - loadFile
+2023-03-22 17:02:03 - U - RETURN
+2023-03-22 17:02:03 -  - exec CUpdateClient::UnGzipArchive
+2023-03-22 17:02:03 -  - TIME UnGzipArchive 0.012 sec
+2023-03-22 17:02:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1679486523/pull/updater23.0.0.php'
+2023-03-22 17:02:03 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1679486523/pull/updater23.0.0.php': CopyFiles(install/js, js)
+2023-03-22 17:02:03 -  - TIME UpdateStepModules 0.031 sec
+2023-03-22 17:02:03 - UPD_SUCCESS - Updated: pull (23.0.0)<br><li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8.
+2023-03-22 17:02:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-03-22 17:02:03 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:02:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=23.0.0&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1200.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&requested_modules=vote%2Csale%2Ccalendar%2Cim%2Cpull&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:02:03 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:02:04 -  - TIME LoadModulesUpdates(request) 0.12 sec
+2023-03-22 17:02:04 -  - exec CUpdateClient::ParseServerData
+2023-03-22 17:02:04 - STEP - Finish - NOUPDATES
+2023-03-22 17:02:04 - STEP - Finish - NOUPDATES
+2023-03-22 17:05:41 -  - exec CUpdateClient::GetUpdatesList
+2023-03-22 17:05:41 -  - exec CUpdateClient::CollectRequestData
+2023-03-22 17:05:41 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=23.0.0&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1200.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-22 17:05:41 -  - exec CUpdateClient::GetHTTPPage
+2023-03-22 17:05:41 -  - TIME GetUpdatesList(request) 0.243 sec
+2023-03-22 17:05:41 -  - exec CUpdateClient::ParseServerData
+2023-03-23 11:41:48 -  - exec CUpdateClient::GetUpdatesList
+2023-03-23 11:41:48 -  - exec CUpdateClient::CollectRequestData
+2023-03-23 11:41:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=23.0.0&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1200.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-23 11:41:48 -  - exec CUpdateClient::GetHTTPPage
+2023-03-23 11:41:49 -  - TIME GetUpdatesList(request) 0.23 sec
+2023-03-23 11:41:49 -  - exec CUpdateClient::ParseServerData
+2023-03-23 11:41:52 -  - exec CUpdateClient::GetUpdatesList
+2023-03-23 11:41:52 -  - exec CUpdateClient::CollectRequestData
+2023-03-23 11:41:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=22.600.100&VERSION=22.600.100&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=46.191.141.176&CHHB=46.191.141.176%3A80&CSAB=127.0.0.1&SUID=c44fe9ee907be62e5662546933dabdfe&CANGZIP=Y&CLIENT_PHPVER=8.1.17&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=22.600.100&bitm_clouds=22.200.0&bitm_conversion=22.0.0&bitm_sale=23.0.0&bitm_perfmon=21.0.0&bitm_search=22.100.0&bitm_photogallery=22.0.100&bitm_webservice=21.0.0&bitm_mail=22.600.200&bitm_sender=22.500.0&bitm_wiki=23.0.0&bitm_subscribe=21.0.0&bitm_report=22.200.0&bitm_support=21.0.0&bitm_lists=23.0.0&bitm_ui=22.1200.0&bitm_blog=22.0.0&bitm_mobileapp=22.100.100&bitm_bizproc=23.0.0&bitm_calendar=23.0.100&bitm_socialservices=22.200.0&bitm_rest=22.400.100&bitm_catalog=22.1000.0&bitm_bizprocdesigner=22.100.0&bitm_learning=22.0.0&bitm_bitrixcloud=22.100.0&bitm_messageservice=22.600.0&bitm_pull=23.0.0&bitm_idea=21.0.0&bitm_iblock=22.400.0&bitm_scale=21.0.0&bitm_statistic=22.0.0&bitm_advertising=21.100.0&bitm_currency=22.500.0&bitm_seo=23.0.0&bitm_translate=23.100.0&bitm_form=22.0.0&bitm_forum=22.200.100&bitm_socialnetwork=22.600.300&bitm_security=21.200.200&bitm_location=22.400.0&bitm_fileman=22.300.0&bitm_storeassist=21.0.0&bitm_workflow=21.0.0&bitm_abtest=21.0.0&bitm_im=22.1200.0&bitm_landing=23.0.0&bitm_highloadblock=22.200.0&bitm_b24connector=22.0.0&bitm_vote=23.0.0&bitl_en=&bitl_ru=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-03-23 11:41:52 -  - exec CUpdateClient::GetHTTPPage
+2023-03-23 11:41:53 -  - TIME GetUpdatesList(request) 0.187 sec
+2023-03-23 11:41:53 -  - exec CUpdateClient::ParseServerData
